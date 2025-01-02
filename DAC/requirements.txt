@@ -1,0 +1,13 @@
+matplotlib
+matplotlib-inline
+missingno
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+tabulate
+yellowbrick
+statsmodels
+mlxtend
+hdfs

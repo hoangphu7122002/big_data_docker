@@ -1,1 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.env
+.venv
+.cache
+
+# Jupyter
+.ipynb_checkpoints
+.jupyter
+.local
+DAC/.*
+
+# Data and logs
 data/
+logs/
+*.log
+
+# Docker volumes
+jupyterhub_data/
+hadoop_namenode/
+hadoop_datanode/
+hadoop_historyserver/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

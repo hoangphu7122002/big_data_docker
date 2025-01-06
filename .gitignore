@@ -33,3 +33,10 @@ hadoop_historyserver/
 # OS
 .DS_Store
 Thumbs.db
+
+# Spark configuration
+!spark_config/
+!spark_config/master/
+!spark_config/worker/
+!spark_config/master/master.sh
+!spark_config/worker/worker.sh
